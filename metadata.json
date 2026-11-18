@@ -1,0 +1,8 @@
+{
+  "name": "Kopi Klan Purchasing System",
+  "description": "Comprehensive purchasing, procurement, inventory management, and supplier coordination system for Kopi Klan coffee shops and roasteries.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
